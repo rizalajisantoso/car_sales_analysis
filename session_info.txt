@@ -1,0 +1,17 @@
+-----
+matplotlib          3.8.2
+numpy               1.26.3
+pandas              2.1.4
+seaborn             0.13.1
+session_info        1.0.0
+-----
+Click to view modules imported as dependencies
+-----
+IPython             8.20.0
+jupyter_client      8.6.0
+jupyter_core        5.7.1
+-----
+Python 3.11.8 (tags/v3.11.8:db85d51, Feb  6 2024, 22:03:32) [MSC v.1937 64 bit (AMD64)]
+Windows-10-10.0.22631-SP0
+-----
+Session information updated at 2024-02-10 17:47
